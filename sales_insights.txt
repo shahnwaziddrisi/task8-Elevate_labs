@@ -1,0 +1,12 @@
+Sales Dashboard Insights
+========================
+
+1. 📈 The West region recorded the highest total sales in Q3, contributing over 35% to the overall revenue.
+
+2. 🛒 The Electronics category outperformed all other categories, especially during August and September.
+
+3. 📊 A steady upward trend in sales was observed from June to September across all regions, indicating strong seasonal growth.
+
+4. 📉 The South region experienced a dip in sales during July, suggesting a possible regional disruption or seasonality.
+
+Prepared as part of the Power BI Sales Dashboard Project.
